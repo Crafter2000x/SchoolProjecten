@@ -1,0 +1,66 @@
+
+ input[type=text], select, textarea {
+    width: 100%;
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin: 5px 0;
+    resize: vertical;
+    
+}
+
+input[type=submit] {
+    background-color: #00AEEF;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+input[type=submit]:hover {
+    background-color: #EC009B;
+}
+
+.buttonWS {
+    background-color: #00AEEF; 
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.buttonWS:hover{
+    background-color: #EC009B;
+}
+
+.contactbox {
+    background-color: #f1f1f1;
+    position: relative;
+    margin: auto;
+    border-radius: 25px;
+    padding: 20px;
+    width: 950px;
+}
+
+.imgWS {
+    height: 300px;
+    width: 450px;
+}
+
+.txtright {
+    text-align: center; 
+    padding-left: 560px;
+}
+
+.WSBox {
+    background-color: #f1f1f1;
+    position: relative;
+    margin: auto;
+    border-radius: 25px;
+    padding: 20px;
+    width: 950px;
+}

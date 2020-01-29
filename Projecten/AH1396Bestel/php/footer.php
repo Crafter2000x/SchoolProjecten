@@ -1,0 +1,2 @@
+<div class="footer"><span class="fa-stack fa-fw"><i class="far fa-square fa-stack-2x"></i> <i class="fas fa-cogs fa-stack-1x"></i></span> Version 0.1 || <span class="fa-stack fa-fw"><i class="far fa-square fa-stack-2x"></i> <i class="fas fa-male fa-stack-1x"></i></span> Created and owned by: Connor Timmerman || <span class="fa-stack fa-fw"><i class="far fa-square fa-stack-2x"></i> <i class="far fa-envelope fa-stack-1x"></i></span> Contact at: <a href="mailto:someone@example.com?Subject=Hello%20again" target="_top">Send Mail</a></div>
+

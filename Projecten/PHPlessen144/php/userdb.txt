@@ -1,0 +1,1 @@
+{"Karel":["Karel","Karel@mail.com","$2y$10$WKxKeQkbvn0sHAWc4fxnn.EV346zDq0pjbRof6Nl7J4QAxQAT6O7q","M","D"],"Piet":["Piet","Piet@mail.com","$2y$10$nDDRlNTn\/fNEE7cmHjf3lehOs4sO3AgBlPJ1p3ZUrZv0.vX8DK6wC","V","F"],"Jan":["Jan","Jan@gmail.com","$2y$10$J9cCQtdY5P7e1CgN4hGGyOmVK1X1GVBBkOkxzwSPWksDNHI4JJueG","M","NL"]}
